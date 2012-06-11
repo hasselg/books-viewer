@@ -1,0 +1,16 @@
+############
+# Project build files
+############
+build/
+dist/
+nbproject/private
+
+############
+# OS files #
+############
+.DS_Store
+
+################
+# Editor files #
+################
+*.swp
